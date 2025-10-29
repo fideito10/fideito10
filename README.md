@@ -6,10 +6,10 @@ Soy un apasionado por el análisis de datos y el entrenamiento deportivo, especi
 - 🔭 Actualmente trabajo en proyectos de análisis de datos en deportes.
 - 🌱 Estoy aprendiendo Python, SQL y visualización de datos.
 - 💬 Me encanta hablar sobre entrenamiento deportivo y análisis de rendimiento.
-- 📫 Puedes contactarme en [tu-email@gmail.com] o en [LinkedIn](https://www.linkedin.com/in/tuperfil/).
+- 📫 Puedes contactarme en calvoj550@gmail.com o en [LinkedIn]
 
 ## 🛠️ Habilidades Técnicas
-- **Lenguajes**: Python, SQL, R (básico)
+- **Lenguajes**: Python, SQL, R 
 - **Bibliotecas**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 - **Visualización de datos**: Power BI, Tableau, Matplotlib, Plotly
 - **Herramientas**: Git, Jupyter Notebook, Excel avanzado
